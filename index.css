@@ -46,7 +46,7 @@ a>img{
 }
 
 main{
-    background-image: url(Images1/23a394f8348872496b2e5bca69f61434.jpg);
+    background-image: url(https://imgtr.ee/images/2023/06/17/YNrcR.jpg);
     height: 300px;
 }
 
@@ -82,7 +82,7 @@ main{
     background-color:cadetblue;
     border-radius: 50px;
     border: 10px rgb(118, 122, 118) solid;
-
+    display: none;
 }
 
 #closeSec{
