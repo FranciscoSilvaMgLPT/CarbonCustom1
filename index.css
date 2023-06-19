@@ -47,6 +47,7 @@ a>img{
 
 main{
     background-image: url(https://imgtr.ee/images/2023/06/17/YNrcR.jpg);
+    background-size: cover;
     height: 300px;
 }
 
