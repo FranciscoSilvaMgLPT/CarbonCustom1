@@ -128,8 +128,13 @@ main{
     text-decoration: underline;
 }
 
+#galeria{
+display:Flex;
+}
+
 #galeria>div{
 width: 200px;
 length: 100px;
 border: 5px red solid;
+margin: 20px;
 }
