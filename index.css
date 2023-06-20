@@ -134,7 +134,7 @@ display:Flex;
 
 #galeria>div{
 width: 200px;
-length: 100px;
+height: 200px;
 border: 5px red solid;
 margin: 20px;
 }
