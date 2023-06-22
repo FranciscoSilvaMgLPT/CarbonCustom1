@@ -4,7 +4,7 @@
 }
 
 header{
-    background-image: url(https://imgtr.ee/images/2023/06/17/YNNKb.png);
+    background-image: url(https://i.postimg.cc/wtzdqvxr/Carbon-Custom-Logo.png);
     height: 250px;
     background-repeat: no-repeat;
     background-size: auto;
@@ -46,8 +46,7 @@ a>img{
 }
 
 main{
-    background-image: url(https://imgtr.ee/images/2023/06/17/YNrcR.jpg);
-    background-size: cover;
+    background-image: url(https://i.postimg.cc/56ZVrghb/23a394f8348872496b2e5bca69f61434.jpg);
     height: 300px;
 }
 
@@ -82,8 +81,7 @@ main{
     height: 350px;
     background-color:cadetblue;
     border-radius: 50px;
-    border: 10px rgb(118, 122, 118) solid;
-    display: none;
+    border: 5px rgb(118, 122, 118) solid;
 }
 
 #closeSec{
@@ -104,7 +102,9 @@ main{
     font-family: cursive;
     color: green;
      font-size: 30px;
-     font-weight: bolder
+     font-weight: bolder;
+     text-align: center;
+     
 }
 
 #close {
@@ -126,15 +126,4 @@ main{
     color: red;
     cursor: pointer;
     text-decoration: underline;
-}
-
-#galeria{
-display:Flex;
-}
-
-#galeria>div{
-width: 200px;
-height: 200px;
-border: 5px red solid;
-margin: 20px;
 }
