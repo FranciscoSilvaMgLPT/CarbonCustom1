@@ -122,8 +122,11 @@ main{
     color: black;
 }
 
-#forgotPass:hover{
+#forgotPass{
     color: red;
+}
+
+#forgotPass:hover{
     cursor: pointer;
     text-decoration: underline;
 }
