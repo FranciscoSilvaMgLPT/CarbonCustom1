@@ -47,7 +47,8 @@ a>img{
 
 main{
     background-image: url(https://i.postimg.cc/9QfQrN1R/23a394f8348872496b2e5bca69f61434.jpg);
-    height: 1000px;
+    height: 10000px;
+    background-size: contain;
 }
 
 #supTab{
@@ -84,10 +85,6 @@ main{
     border: 5px rgb(118, 122, 118) solid;
 }
 
-#closeSec{
-    color: white;
-
-}
 
 #loginSec{
     display: flex;
@@ -101,11 +98,8 @@ main{
 #loginTitle{
     font-family: cursive;
     color: green;
-     font-size: 30px;
+     font-size: 35px;
      font-weight: bolder;
-     text-align: center;
-     align-items: center;
-     
 }
 
 #close {
